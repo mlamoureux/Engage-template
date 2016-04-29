@@ -1,5 +1,5 @@
 # Engage-template
-Template files for creating an NSERC Engage grant application
+Template files for creating an NSERC Engage grant application.
 Created by Michael Lamoureux for PIMS. April 28, 2016.
 
 This folder is a collection of template files for creating an NSERC Engage Grant. 
