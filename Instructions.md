@@ -60,4 +60,4 @@ Form 183A has the following sections, which can completed by the company or by t
 
 As with the Form 101, you just go through section by section, filling out the relevant information and attaching the 3 PDFs files that are required. 
 
-When you are all done, you use the Link Manage to attach the form 100, 101 and 183A together, and submit to the university’s Research Services department for comments and approval 
+When you are all done, you use the Link Manage to attach the form 100, 101 and 183A together, and submit to the university’s Research Services department for comments and approval. 
