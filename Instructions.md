@@ -1,4 +1,6 @@
-April 28, 2016.
+## Instructions.md
+### M. Lamoureux
+### April 28, 2016.
 
 This folder is a collection of template files for creating an NSERC Engage Grant. 
 Please refer to the NSERC webpages for detailed information on creating an application. 
